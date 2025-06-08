@@ -106,7 +106,10 @@ ipython_config.py
 #   commonly ignored for libraries.
 #   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
 #poetry.lock
+<<<<<<< HEAD
 #poetry.toml
+=======
+>>>>>>> 5500ec616e947f0cfdfd3c14fe941f7ae4fcb588
 
 # pdm
 #   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
@@ -178,7 +181,11 @@ cython_debug/
 #  Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore 
 #  that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
 #  and can be added to the global gitignore or merged into this file. However, if you prefer, 
+<<<<<<< HEAD
 #  you could uncomment the following to ignore the entire vscode folder
+=======
+#  you could uncomment the following to ignore the enitre vscode folder
+>>>>>>> 5500ec616e947f0cfdfd3c14fe941f7ae4fcb588
 # .vscode/
 
 # Ruff stuff:
@@ -192,6 +199,10 @@ cython_debug/
 #  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
+<<<<<<< HEAD
 .cursorindexingignore
 
 *.csv
+=======
+.cursorindexingignore
+>>>>>>> 5500ec616e947f0cfdfd3c14fe941f7ae4fcb588
